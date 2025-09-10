@@ -1,5 +1,5 @@
 <div>
-    <img src="./assets/croppeddlain.gif" alt="Lain Setup" "/>
+    <img src="./assets/croppeddlain.gif" alt="Lain Setup" height="500" width="1200" "/>
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C8B1F7&width=435&lines=%E0%AB%AE+%CB%B6%E1%B5%94+%E1%B5%95+%E1%B5%94%CB%B6+%E1%83%90++Welcome+to+Blessi's+Page" alt="Typing SVG" />

@@ -5,19 +5,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C8B1F7&width=435&lines=%E0%AB%AE+%CB%B6%E1%B5%94+%E1%B5%95+%E1%B5%94%CB%B6+%E1%83%90++Welcome+to+Blessi's+Page" alt="Typing SVG" />
 </a>
 
-<h1 align="center"> Social Media: </h1>
+<h2 align="center"> Contact Me </h2>
   <p align="center">
-    <a href="mailto:telenshaina@gmail.com">
-      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-    </a>
-    <a href="https://www.linkedin.com/in/telenshaina/">
-      https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-    </a>
-    <a href="https://www.linkedin.com/in/DavidsDvm">
-      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white)
-    </a>
-    
-  </p>
+  <a href="mailto:davids.dvm@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/?size=100&id=CodoMZeFHZxE&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="www.linkedin.com/in/telenshaina" alt="LinkedIn"><img width="32px" src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://profile.indeed.com/?hl=en_PH&co=PH&from=gnav-homepage"><img width="32px" alt="Indeed" title="Indeed" src="https://img.icons8.com/?size=100&id=ShersDylacYv&format=png&color=000000"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 </h1>
 About me👋:
 

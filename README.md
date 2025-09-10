@@ -1,3 +1,7 @@
+<div>
+    <img src="./assets/lainsetup.gif" alt="Lain Setup"/>
+</div>
+
 ### Hi there 
 
 About me👋:
@@ -15,10 +19,67 @@ I am passionate about coding and have a strong background in database management
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2F623E3D16461DE617D97D2B8A063F51FC98FB159723C0B0D227C4A39EF0037F)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e38859eeaaf54fd980dde44622ad029f)
 
-## Skill Sets
+<tr>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+🌱 I’m currently learning Go and Next JS.
 
+
+</tr>
+
+## My Skills Set
+<table><tr><tr valign="top" width="25%">
+
+### Front End
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,npm,react,html,css,tailwind,vite" />
+  </a>
+</p>
+</div></tr></td valign="top" width="25%">
+
+### Back End
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,javascript,ts,express,laravel,cs,bash,php" />
+  </a>
+</p>
+</div></tr></td valign="top" width="25%">
+
+
+
+### Databases
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+  </a>
+</p>
+</div></tr></td valign="top" width="25%">
+
+
+### DevOps & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,linux,github,git,vscode,pycharm," />
+  </a>
+</p>
+</div></tr></td valign="top" width="25%">
+
+
+### Design & Creatives
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma," />
+  </a>
+</p>
+</div></tr></td valign="top" width="25%">
+
+</div></tr></td valign="top" width="25%">
+</table>
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Telenshaina&theme=gotham&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Telenshaina&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

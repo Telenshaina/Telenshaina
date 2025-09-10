@@ -1,9 +1,24 @@
 <div>
-    <img src="./assets/lainsetup.gif" alt="Lain Setup"/>
+    <img src="./assets/croppedlain.gif" alt="Lain Setup" "/>
 </div>
 
-### Hi there 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C8B1F7&width=435&lines=%E0%AB%AE+%CB%B6%E1%B5%94+%E1%B5%95+%E1%B5%94%CB%B6+%E1%83%90++Welcome+to+Blessi's+Page" alt="Typing SVG" />
+</a>
 
+<h1 align="center"> Social Media: </h1>
+  <p align="center">
+    <a href="mailto:telenshaina@gmail.com">
+      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+    </a>
+    <a href="https://www.linkedin.com/in/telenshaina/">
+      https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+    </a>
+    <a href="https://www.linkedin.com/in/DavidsDvm">
+      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white)
+    </a>
+    
+  </p>
+</h1>
 About me👋:
 
 I am passionate about coding and have a strong background in database management. I enjoy tackling complex problems and crafting elegant solutions. My journey in the tech world began with the BS Computer Science program.
@@ -84,16 +99,9 @@ I am passionate about coding and have a strong background in database management
 ![](https://nirzak-streak-stats.vercel.app/?user=Telenshaina&theme=gotham&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Telenshaina&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Telenshaina&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Telenshaina&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 ## Connect with Me
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shaina-meir-telen-31305a2a3)
 - Email: telenshaina@gmail.com
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>

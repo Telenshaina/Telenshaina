@@ -16,7 +16,7 @@
   <p align="center">
   <a href="mailto:telenshaina@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/?size=100&id=CodoMZeFHZxE&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="www.linkedin.com/in/telenshaina" alt="LinkedIn"><img width="32px" src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000"/></a>
+  <a href="https://www.linkedin.com/in/telenshaina" alt="LinkedIn"><img width="32px" src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://profile.indeed.com/?hl=en_PH&co=PH&from=gnav-homepage"><img width="32px" alt="Indeed" title="Indeed" src="https://img.icons8.com/?size=100&id=ShersDylacYv&format=png&color=000000"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

@@ -14,7 +14,7 @@
 
 <h2 align="center"> Contact Me </h2>
   <p align="center">
-  <a href="mailto:davids.dvm@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/?size=100&id=CodoMZeFHZxE&format=png&color=000000"/></a>
+  <a href="mailto:telenshaina@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/?size=100&id=CodoMZeFHZxE&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="www.linkedin.com/in/telenshaina" alt="LinkedIn"><img width="32px" src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

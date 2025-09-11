@@ -5,9 +5,12 @@
 <br><br>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C8B1F7&width=435&lines=%E0%AB%AE+%CB%B6%E1%B5%94+%E1%B5%95+%E1%B5%94%CB%B6+%E1%83%90++Welcome+to+Blessi's+Page"             alt="Typing SVG" />
-    </a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=C8B1F7&width=435&lines=Welcome+to+Shaii's+Page;Welcome+to+Blessi's+Page;Welcome+to+Meir's+Page" alt="Typing SVG" /></a>
  </p>
+
+<div align="center">
+ ₊✩‧₊˚౨ৎ˚₊✩‧₊ **The Less I Know the Better** ₊✩‧₊ ... *but not on this case...*  ₊✩‧₊˚౨ৎ˚₊✩‧₊
+</div>
 
 <h2 align="center"> Contact Me </h2>
   <p align="center">
@@ -20,7 +23,7 @@
 </p>
 
 <div align="center">
-Hi!👋I am Shaina Blessy Meir! My academic journey [and  deep fascination about how all things work... ] has ignited a deep interest in artificial intelligence, data science, and game development. I'm constantly seeking opportunities to apply my knowledge in these fields and create innovative projects. A very curios mind indeed~~
+Hi!👋I am Shaina Blessy Meir! My academic journey [and  deep fascination about how all things work... ] has ignited a deep interest in artificial intelligence, data science, and game development. I'm constantly seeking opportunities to apply my knowledge in these fields and create innovative projects. A very curious mind indeed~~
 
 </div>
 
@@ -148,21 +151,38 @@ Hi!👋I am Shaina Blessy Meir! My academic journey [and  deep fascination abou
 
 <tr>
 
-🌱 I’m currently learning Go and Next JS.
+<br><br>
+<tr>
 
+🌱 I’m currently learning / working on:
+<br><br>
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </tr>
+
+<tr>
 
 </div></tr></td valign="top" width="25%">
 </table>
 
-#  GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Telenshaina&theme=gotham&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Telenshaina&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Telenshaina&theme=synthwave&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Telenshaina&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Telenshaina&icon=0&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 <div>
-        <img src="./assets/lain dance.gif" alt="Lain Dance" height="500" width="1200" "/>
+        <img src="./assets/lain dancing.gif" alt="Lain Dance" height="500" width="1200" "/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>

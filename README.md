@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-Hi!👋I am Shaina Blessy Meir! My academic journey [and  deep fascination about how all things work... ] has ignited a deep interest in artificial intelligence, data science, and game development. I'm constantly seeking opportunities to apply my knowledge in these fields and create innovative projects. A very curious mind indeed~~
+Hi!👋I am Shai! My academic journey <i>. . . and deep fascination about how all things work . . .</i> has ignited a deep interest in artificial intelligence, data science, and game development. I'm constantly seeking opportunities to apply my knowledge in these fields and create innovative projects. A very curious mind indeed~~
 
 </div>
 
@@ -45,6 +45,7 @@ Hi!👋I am Shaina Blessy Meir! My academic journey [and  deep fascination abou
     <td style="border: none; padding: 0; vertical-align: top;">
       <ul style="list-style-type: none; padding-left: 0;">
         <li>🔭 I’m currently a 4th year BS Computer Science Student at <b>New Era University. </b></li>
+        <li>💞 My Full name is Shaina Blessy Meir Telen (yep a very long one )</li>
         <li>🌱 I’m currently learning ML/AI</li>
         <li>😾 I have deep love for CATSS!!</li>
         <li>💬 and yes most of it here are SE Lain reference ;></li>

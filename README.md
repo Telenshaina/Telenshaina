@@ -44,7 +44,7 @@ Hi!👋I am Shaina Blessy Meir! My academic journey [and  deep fascination abou
   <tr style="border: none;">
     <td style="border: none; padding: 0; vertical-align: top;">
       <ul style="list-style-type: none; padding-left: 0;">
-        <li>🔭 I’m , currently a 4th year BS Computer Science Student at <b>New Era University. </b></li>
+        <li>🔭 I’m currently a 4th year BS Computer Science Student at <b>New Era University. </b></li>
         <li>🌱 I’m currently learning ML/AI</li>
         <li>😾 I have deep love for CATSS!!</li>
         <li>💬 and yes most of it here are SE Lain reference ;></li>

@@ -174,15 +174,12 @@ Hi!👋I am Shaina Blessy Meir! My academic journey [and  deep fascination abou
 </p>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Telenshaina&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 <div>
         <img src="./assets/lain dancing.gif" alt="Lain Dance" height="500" width="1200" "/>
+</div>
+
+<div align="center">
+     No matter where you go, everyone's connected - Lain 1998
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
